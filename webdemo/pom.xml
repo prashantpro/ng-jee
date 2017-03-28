@@ -6,8 +6,7 @@
         <groupId>org.prashantp</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
-    <groupId>org.prashantp</groupId>
+   
     <artifactId>webdemo</artifactId>
     <packaging>war</packaging>
 
