@@ -1,4 +1,4 @@
-#Sample Multi module project setup showcasing how Angular and JEE can be combined together
+## Sample Multi module project setup showcasing how Angular and JEE can be combined together
 
 The recommended way to build an Angular 2 application is to make use of Angular CLI tool. Similarly when you work with Java EE projects you typically use Maven as the build tool.
 
